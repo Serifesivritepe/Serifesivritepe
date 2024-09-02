@@ -1,4 +1,4 @@
-![MasterHead](https://www.bertrandt.com/fileadmin/_processed_/d/f/csm_KeyVisual_Software_Experts_Bertrandt_c82b535d74.jpg)
+![MasterHead](https://imageio.forbes.com/specials-images/imageserve/64b5825a5b9b4d3225e9bd15/artificial-intelligence--ai/960x0.jpg?format=jpg&width=960)
 <h1 align="center">Hi 👋, I'm Şerife Sivritepe</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
