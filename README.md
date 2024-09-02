@@ -1,4 +1,4 @@
-![MasterHead](https://imageio.forbes.com/specials-images/imageserve/64b5825a5b9b4d3225e9bd15/artificial-intelligence--ai/960x0.jpg?format=jpg&width=960)
+![MasterHead](https://ninjanews.io/wp-content/uploads/2023/09/AI.webp)
 <h1 align="center">Hi 👋, I'm Şerife Sivritepe</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
