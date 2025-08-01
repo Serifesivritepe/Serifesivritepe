@@ -1,8 +1,8 @@
 ![MasterHead](https://ninjanews.io/wp-content/uploads/2023/09/AI.webp)
 <h1 align="center">Hi 👋, I'm Şerife Sivritepe</h1>
-<h3 align="center">Jr. Data, Cybersecurity & Computer Science Professional | Integrity-Focused ML Engineer</h3>
+<h3 align="center">Jr. Data, Cybersecurity & Computer Science Professional </h3>
 
-- 🔭 I’m working on **privacy-aware machine learning pipelines, secure data preprocessing, and reliability feedback loops**  
+- 🔭 I’m working on **secure data preprocessing, privacy-aware machine learning pipelines, and reliability feedback loops**  
 - 🌱 Building trustable AI by embedding data integrity, anomaly detection, and metric-backed monitoring  
 - 📫 Reach me at **serifesivritepe1@gmail.com**  
 - ⚡ Fun fact: I love sci-fi movies  
